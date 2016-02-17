@@ -2,6 +2,9 @@
   "name": "gitbook-plugin-section",
   "version": "0.0.1",
   "description": "This is GitBook plugin Section",
+  "engines": {
+    "gitbook": "*"
+  },
   "homepage": "https://github.com/Tancy/gitbook-plugin-section",
   "repository": {
     "type": "git",
