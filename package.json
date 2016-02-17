@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-section",
+  "version": "0.0.1",
+  "description": "This is GitBook plugin Section",
+  "homepage": "https://github.com/Tancy/gitbook-plugin-section",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tancy/gitbook-plugin-section"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tancy/gitbook-plugin-section/issues"
+  },
+  "dependencies": {
+    "markdown-toc": "^0.11.7"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "section"
+  ],
+  "author": {
+    "name": "Tancy",
+    "email": "ronntx@gmail.com"
+  }
+}
